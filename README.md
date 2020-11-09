@@ -2,7 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Hosting of the app
-The app can be accessed by heading to this link here: https://imessage-react-20202.web.app
+The app can be accessed by heading to this link here: https://imessage-react-2020.web.app
 
 ## Available Scripts
 
